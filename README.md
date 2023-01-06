@@ -1,6 +1,8 @@
 ## To start building a web application with Ruby on Rails, you will need to do the following:
 
 
+<details> <summary>Workflow </summary>
+
 - Install Ruby and Rails: You will need to have the Ruby programming language and the Rails web development framework installed on your machine. You can install them using a package manager such as rbenv or rvm, or you can download and install them manually.
 
 - Create a new Rails project: Open a terminal window and navigate to the directory where you want to create your project. Then, use the "rails new" command to create a new Rails project. For example: "rails new my_app"
@@ -18,4 +20,9 @@
 Building a web application with Ruby on Rails can be challenging, but it is also a rewarding and fulfilling experience. With time and practice, you will become more comfortable with the framework and be able to build more complex and powerful applications.
 
 
+</details>
 
+
+<details> <summary> Installing </summary>
+
+</details>
