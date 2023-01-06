@@ -25,4 +25,6 @@ Building a web application with Ruby on Rails can be challenging, but it is also
 
 <details> <summary> Installing </summary>
 
+Windows, easy: https://rubyinstaller.org/
+- download the installer
 </details>
