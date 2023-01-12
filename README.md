@@ -28,3 +28,29 @@ Building a web application with Ruby on Rails can be challenging, but it is also
 Windows, easy: https://rubyinstaller.org/
 - download the installer
 </details>
+
+
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
